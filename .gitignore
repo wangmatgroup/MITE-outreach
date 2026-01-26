@@ -1,2 +1,11 @@
 *.odp
+*.ods
 *.odt
+*.docx
+*.doc
+*.xlsx
+*.ppt
+*.pptx
+*.csv
+*.mp4
+*-local/

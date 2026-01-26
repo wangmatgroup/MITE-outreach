@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src:
+    /* from https://fonts.gstatic.com/s/sourcesanspro/v19/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmRdu.woff2 */
+    url("Source_Sans_Pro_300.8181c8aa9ec9.woff2") format('woff2'),
+    /* from https://fonts.gstatic.com/s/sourcesanspro/v19/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmRdo.woff */
+    url("Source_Sans_Pro_300.2683c86b8487.woff") format('woff');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src:
+    /* from https://fonts.gstatic.com/s/sourcesanspro/v19/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7l.woff2 */
+    url("Source_Sans_Pro_400.b40f21a99756.woff2") format('woff2'),
+    /* from https://fonts.gstatic.com/s/sourcesanspro/v19/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7j.woff */
+    url("Source_Sans_Pro_400.9f3df6ec519c.woff") format('woff');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src:
+    /* from https://fonts.gstatic.com/s/sourcesanspro/v19/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRdu.woff2 */
+    url("Source_Sans_Pro_700.be532c665784.woff2") format('woff2'),
+    /* from https://fonts.gstatic.com/s/sourcesanspro/v19/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRdo.woff */
+    url("Source_Sans_Pro_700.ea77ed768f4b.woff") format('woff');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src:
+    /* from https://fonts.gstatic.com/s/sourcesanspro/v19/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDI.woff2 */
+    url("Source_Sans_Pro_400italic.7a33ef412472.woff2") format('woff2'),
+    /* from https://fonts.gstatic.com/s/sourcesanspro/v19/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDQ.woff */
+    url("Source_Sans_Pro_400italic.bf78b8759f50.woff") format('woff');
+}
